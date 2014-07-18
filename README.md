@@ -17,3 +17,8 @@ README.md - This file
 
 .gitignore - .gitignore
 
+
+Moving project-specific stuff to sub-directory.
+Building dedicated CRC and IntelHex classes to handle calcing and parsing separately and more generally.
+Adding rspec files to test the general CRC class.
+
